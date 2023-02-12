@@ -1,4 +1,4 @@
-package com.example.codingtest.Array;
+package com.example.codingtest.inout;
 
 import java.util.Scanner;
 
